@@ -49,7 +49,7 @@
 		"react-promise-tracker": "^2.1.0",
 		"react-simple-maps": "^0.12.1",
 		"react-tooltip": "^4.2.6",
-		"recharts": "^1.8.5",
+		"recharts": "^2.1.14",
 		"request": "^2.88.2",
 		"webpage": "^0.3.0"
 	},
